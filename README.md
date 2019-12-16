@@ -1,7 +1,8 @@
 # winter_vacation
 
-## 소스코드입니다.
-
+프로젝트 정보
+	pm : 조종민
 public int a(){
 	return 0;
 	}
+
